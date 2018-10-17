@@ -1,0 +1,134 @@
+v2.0.0 
+       - Fix WPS Process Crash.
+
+v2.0.1 
+       - For UI Generalization.
+
+v2.0.2 
+       - Support New NICs.
+
+v2.0.3 
+       - Fix WPS session overlap issue.
+
+v2.0.4 
+       - Fix WPS with 5G AP issue.
+
+v2.0.5 
+       - Fix 11AC Data Rate.
+
+v2.0.6
+       - Lion support codesign.
+
+v2.0.7
+       - Fix Driver Version issue.
+
+v2.0.8
+       - Fix WPS Tab Editable.
+
+v2.0.9
+       - Revise PinCode behavior.
+
+v2.1.0
+       - Improve performance.
+
+v2.1.1
+       - Fix WPS sometimes crash.
+
+v2.1.2
+       - UI customization.
+
+v2.1.3
+       - Change U2/U3 support OS.
+
+v2.1.4
+       - UI customization.
+
+v2.1.5
+       - Fix Sleep-WakeUp with super speed.
+
+v2.1.6
+       - UI customization.
+
+v2.1.7
+       - Fix PinCode mismatch issue.
+
+v2.1.8
+	- Fix Sleep-WakeUp then Scan Failed.
+	- UI customization.
+
+v2.1.9
+	- Fix USB3.0 Mode Radio Off/On then Scan Failed.
+	- Fix "Add Profile", USB switch failed.
+
+v2.2.0
+	- Fix system crash when U2/U3 switching within WPS Process.
+	- Fix WPA-none Adhoc connection failed.
+
+v2.2.1
+	- UI customization.
+	- Fix UI crashed issue within fast user switching.
+
+v2.2.2
+	- Support Locale-ChannelPlan Mapping.
+	- Support BeamCap. 
+
+v2.2.3
+	- UI customization.
+
+v2.2.4
+	- UI customization.
+
+v2.2.5
+	- Support Wrong-key alert.
+
+v2.2.6
+	- UI customization.
+
+v2.2.7
+	- Fix WPS Tab reload issue.
+
+v2.2.8
+	- Enable Locale-ChannelPlan Mapping.
+
+v2.2.9
+	- Revise Locale-ChannelPlan Mapping.
+	- Revise WPS Timer behavior.
+	- Revise Ad-hoc in 5G mode.
+
+v2.3.0 
+	- UI customization.
+
+v2.3.1 
+	- Fix dock issue.
+
+v2.3.2 
+	- Revise WPS timer behavior when re-press PBC button.
+
+v2.3.3 
+	- Background service.
+
+v2.3.4 
+	- Fix WPS 5G issue.
+
+v2.3.5 
+	- Revise encoding for special character in SSID. 
+
+v2.3.6
+	- Revise WPS profile priority.
+
+v2.3.7
+	- Fix Cocoa Object release exception. 
+
+v2.3.8
+	- Fix Hidden AP connection issue.
+
+v2.3.9
+	- Fix 10.10 system crash when unplug during sleep period.
+
+v2.3.10
+	- Ad-hoc with WPA2-PSK is unsupported.
+
+v2.3.11
+	- Fix 11ac 1x1 data rate.
+	- Fix Russian utility.
+
